@@ -1,0 +1,22 @@
+#wrap {
+    border-radius: 25px;
+    margin: 30px auto;
+    margin-top: 100px;
+    width: 80%;
+}
+#login{
+    width: 45%;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #0eafea;
+    float: left;
+}
+#register{
+    width: 45%;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #0246db;
+    float: right;
+}
